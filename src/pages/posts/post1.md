@@ -1,6 +1,6 @@
 ---
 title: "My First Astro Post"
-date: "2022-01-01"
+date: "2025-01-01"
 
 layout: ../../layouts/PostLayout.astro
 description: "This is my first Astro post. Stay tuned for more exciting content coming soon!"
