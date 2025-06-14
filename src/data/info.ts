@@ -1,26 +1,32 @@
 export const info = {
   name: "Vladimir Torres",
   brief_description:
-    "I'm a data anality and developer.",
-  role: "Full Stack Developer",
-  picture: "/pic.png",
+    "Soy desarrollador de Analítica de Datos con Power BI, SQL y Python.",
+  role: "Data Analyst and Developer",
+  picture: "/VladimirT.png",
   picture_alt: "Vladimir Torres",
   location: "Bogotá, Colombia",
-  cv: "/resume.pdf",
+  cv: "/CV Vladimir.pdf",
 
   about: {
-    description: `I'm a full stack developer with a passion for causing a little chaos in web development.
-    I have a solid foundation in computer science, although I prefer skateboarding over studying.
-    I excel in building web applications using React, Node.js, and MongoDB.
-    I'm known for my sharp wit and quick thinking, traits that serve me well in coding and pranks alike.
-    Looking for a challenge? Let's create something memorable together.`,
+    description: `Soy estudiante de Ingeniería de software, Tecnólogo en Análisis y desarrollo de sistemas de información 
+    con formación en automatización de procesos y visualización de datos. 
+    Actualmente profundizo mis estudios en análisis de datos y programación enfocado en resolver desafíos, 
+    desarrollando soluciones efectivas.
+    Poseo experiencia y habilidades en tecnologías como SQL, Power BI, Python, .Net , Java, y Azure, aplicadas en proyectos 
+    académicos y personales.`,
     education: [
       {
-        title: "Self-Taught Developer Extraordinaire",
-        date: "2000 - Present",
-        location: "Springfield Elementary School of Hard Knocks",
-        gpa: "4.0 (A+ in Pranks)",
+        title: "Ingenieria de Software",
+        date: "Feb 2024 - Actualidad",
+        location: "Politecnico Grancolombiano",
         thesis: "The Art of Subverting Expectations: A Practical Guide",
+      },
+      {
+        title: "Tecnólogo en Análisis y Desarrollo de Sistema de Información ",
+        date: "Nov 2020 - Ago 2023",
+        location: "SENA (Servicio Nacional de Aprendizaje)",
+        thesis: "Sistema de gestion POS para empresa de venta",
       },
     ],
     experience: [
