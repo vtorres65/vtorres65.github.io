@@ -1,7 +1,11 @@
 export const info = {
   name: "Vladimir Torres",
   brief_description:
+<<<<<<< HEAD
     "Soy desarrollador de Analítica de Datos con Power BI, SQL y Python.",
+=======
+    "Desarrollador de Analítica de Datos con Power BI, SQL y Python.",
+>>>>>>> descripcion
   role: "Data Analyst and Developer",
   picture: "/VladimirT.png",
   picture_alt: "Vladimir Torres",
@@ -20,7 +24,17 @@ export const info = {
         title: "Ingenieria de Software",
         date: "Feb 2024 - Actualidad",
         location: "Politecnico Grancolombiano",
+<<<<<<< HEAD
         thesis: "The Art of Subverting Expectations: A Practical Guide",
+=======
+        thesis: "Analisis de datos para la toma de decisiones en empresas de retail",
+      },
+      {
+        title: "Tecnólogo en Análisis y Desarrollo de Sistema de Información ",
+        date: "Nov 2020 - Ago 2023",
+        location: "SENA (Servicio Nacional de Aprendizaje)",
+        thesis: "Sistema de gestion POS para empresa de venta",
+>>>>>>> descripcion
       },
       {
         title: "Tecnólogo en Análisis y Desarrollo de Sistema de Información ",
@@ -31,29 +45,31 @@ export const info = {
     ],
     experience: [
       {
-        title: "Frontend Developer",
-        date: "2015 - Present",
-        location: "Krusty Burger Web Dev",
+        title: "Programador",
+        date: "Mar 2025 - Actualidad",
+        location: "Servimed IPS",
         description:
-          "Crafted interactive web experiences using React and Redux. Often multitasked between coding and avoiding Principal Skinner.",
+          "Desarrollo y implementación de reportes en Power Bi midiendo indicadores de gestión de promoción y mantenimiento, calidad y seguimiento para la atención oportuna de enfermedades.\
+            Automatizaciones de centralización de datos con Python y pasarlo a SQL Server",
       },
       {
-        title: "Backend Bandit",
-        date: "2013 - 2015",
-        location: "Comic Book Guy's Software Emporium",
+        title: "GTM Analista junior",
+        date: "Nov 2024 - Ene 2025",
+        location: "Salesland",
         description:
-          "Masterminded backend solutions using Node.js and MongoDB. Surprisingly good at debugging, considering my history of causing bugs.",
+          "Automatización de reportes con Python y procedimientos en SQL Server reduciendo el tiempo en 20% menos, Análisis descriptivo y predictivo de cumplimiento de metas comerciales, Creación de dashboards en Excel y validación de datos homologados con la base de datos.",
       },
       {
-        title: "Junior Hacker",
-        date: "2010 - 2013",
-        location: "Springfield Elementary Cyber Club",
+        title: "Injeniero de soporte",
+        date: "Dic 2023 - Nov 2024",
+        location: "Sfinges S.A.S.",
         description:
-          "Pioneered early web exploits, leading the club in daring coding escapades. Was disciplined for hacking the school's grading system.",
+          "Automatización de procesos en SQL Server y Power Bi realizando vistas y procedimientos almacenados reduciendo el tiempo en 25%,\
+          Desarrollo de dashboards en Power Bi para presentar reportes descriptivos y predictivos, supervisión de servidores en Azure y soporte técnico y funcionamiento",
       },
     ],
 
-    skills: ["JavaScript", "React", "Node.js", "MongoDB", "Prank Mastery"], // not used yet
+    skills: ["Python", "Power BI", "SQL Server", "Java", ".NET", "JavaScript", "Azure"], // not used yet
   },
 
   projects: [
@@ -90,9 +106,9 @@ export const info = {
   ],
 
   contact: {
-    email: "bart@thesimpsons.com",
-    linkedin: "https://www.linkedin.com/in/bartsimpsonfake",
-    github: "https://www.github.com/gio-del",
-    twitter: "https://www.twitter.com/bartsimpsonfake",
+    email: "vlacky810@gmail.com",
+    linkedin: "https://www.linkedin.com/in/vladimir-torres-vargas/",
+    github: "https://github.com/vtorres65",
+    twitter: "https://www.twitter.com",
   },
 };
