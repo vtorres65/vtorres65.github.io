@@ -1,53 +1,61 @@
 export const info = {
   name: "Vladimir Torres",
   brief_description:
-    "I'm a data anality and developer.",
-  role: "Full Stack Developer",
-  picture: "/pic.png",
+    "Desarrollador de Analítica de Datos con Power BI, SQL y Python.",
+  role: "Data Analyst and Developer",
+  picture: "/VladimirT.png",
   picture_alt: "Vladimir Torres",
   location: "Bogotá, Colombia",
-  cv: "/resume.pdf",
+  cv: "/CV Vladimir.pdf",
 
   about: {
-    description: `I'm a full stack developer with a passion for causing a little chaos in web development.
-    I have a solid foundation in computer science, although I prefer skateboarding over studying.
-    I excel in building web applications using React, Node.js, and MongoDB.
-    I'm known for my sharp wit and quick thinking, traits that serve me well in coding and pranks alike.
-    Looking for a challenge? Let's create something memorable together.`,
+    description: `Soy estudiante de Ingeniería de software, Tecnólogo en Análisis y desarrollo de sistemas de información 
+    con formación en automatización de procesos y visualización de datos. 
+    Actualmente profundizo mis estudios en análisis de datos y programación enfocado en resolver desafíos, 
+    desarrollando soluciones efectivas.
+    Poseo experiencia y habilidades en tecnologías como SQL, Power BI, Python, .Net , Java, y Azure, aplicadas en proyectos 
+    académicos y personales.`,
     education: [
       {
-        title: "Self-Taught Developer Extraordinaire",
-        date: "2000 - Present",
-        location: "Springfield Elementary School of Hard Knocks",
-        gpa: "4.0 (A+ in Pranks)",
-        thesis: "The Art of Subverting Expectations: A Practical Guide",
+        title: "Ingenieria de Software",
+        date: "Feb 2024 - Actualidad",
+        location: "Politecnico Grancolombiano",
+        thesis: "Analisis de datos para la toma de decisiones en empresas de retail",
+      },
+      {
+        title: "Tecnólogo en Análisis y Desarrollo de Sistema de Información ",
+        date: "Nov 2020 - Ago 2023",
+        location: "SENA (Servicio Nacional de Aprendizaje)",
+        thesis: "Sistema de gestion POS para empresa de venta",
       },
     ],
     experience: [
       {
-        title: "Frontend Developer",
-        date: "2015 - Present",
-        location: "Krusty Burger Web Dev",
+        title: "Programador",
+        date: "Mar 2025 - Actualidad",
+        location: "Servimed IPS",
         description:
-          "Crafted interactive web experiences using React and Redux. Often multitasked between coding and avoiding Principal Skinner.",
+          "Desarrollo y implementación de reportes en Power Bi midiendo indicadores de gestión de promoción y mantenimiento, calidad y seguimiento para la atención oportuna de enfermedades.\
+            Automatizaciones de centralización de datos con Python y pasarlo a SQL Server",
       },
       {
-        title: "Backend Bandit",
-        date: "2013 - 2015",
-        location: "Comic Book Guy's Software Emporium",
+        title: "GTM Analista junior",
+        date: "Nov 2024 - Ene 2025",
+        location: "Salesland",
         description:
-          "Masterminded backend solutions using Node.js and MongoDB. Surprisingly good at debugging, considering my history of causing bugs.",
+          "Automatización de reportes con Python y procedimientos en SQL Server reduciendo el tiempo en 20% menos, Análisis descriptivo y predictivo de cumplimiento de metas comerciales, Creación de dashboards en Excel y validación de datos homologados con la base de datos.",
       },
       {
-        title: "Junior Hacker",
-        date: "2010 - 2013",
-        location: "Springfield Elementary Cyber Club",
+        title: "Injeniero de soporte",
+        date: "Dic 2023 - Nov 2024",
+        location: "Sfinges S.A.S.",
         description:
-          "Pioneered early web exploits, leading the club in daring coding escapades. Was disciplined for hacking the school's grading system.",
+          "Automatización de procesos en SQL Server y Power Bi realizando vistas y procedimientos almacenados reduciendo el tiempo en 25%,\
+          Desarrollo de dashboards en Power Bi para presentar reportes descriptivos y predictivos, supervisión de servidores en Azure y soporte técnico y funcionamiento",
       },
     ],
 
-    skills: ["JavaScript", "React", "Node.js", "MongoDB", "Prank Mastery"], // not used yet
+    skills: ["Python", "Power BI", "SQL Server", "Java", ".NET", "JavaScript", "Azure"], // not used yet
   },
 
   projects: [
@@ -84,9 +92,9 @@ export const info = {
   ],
 
   contact: {
-    email: "bart@thesimpsons.com",
-    linkedin: "https://www.linkedin.com/in/bartsimpsonfake",
-    github: "https://www.github.com/gio-del",
-    twitter: "https://www.twitter.com/bartsimpsonfake",
+    email: "vlacky810@gmail.com",
+    linkedin: "https://www.linkedin.com/in/vladimir-torres-vargas/",
+    github: "https://github.com/vtorres65",
+    twitter: "https://www.twitter.com",
   },
 };

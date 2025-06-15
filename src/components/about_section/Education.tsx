@@ -22,7 +22,6 @@ export default function Education(props: EducationProps) {
           <div className="relative left-10 w-full">
             <p className="text-xl font-normal">{edu.date}</p>
             <p className="text-xl font-normal">{edu.location}</p>
-            {edu.gpa && <p className="text-xl font-normal">GPA: {edu.gpa}</p>}
             {edu.thesis && (
               <p className="text-xl font-normal">Thesis: {edu.thesis}</p>
             )}
