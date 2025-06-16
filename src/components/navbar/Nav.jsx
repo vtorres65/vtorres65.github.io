@@ -8,10 +8,10 @@ export default function Nav({ posts }) {
   const [isNavOpen, setIsNavOpen] = useState(false);
 
   const navLinks = [
-    { name: "About", href: "/#about" },
-    { name: "Projects", href: "/#projects" },
+    { name: "Sobre mi", href: "/#about" },
+    { name: "Projectos", href: "/#projects" },
     { name: "Blog", href: "/#blog" },
-    { name: "Contact", href: "/#contact" },
+    { name: "Contacto", href: "/#contact" },
   ];
 
   const extractInitials = (name) => {

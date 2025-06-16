@@ -33,6 +33,12 @@ export default function Contact({ contact, size }: ContactProps) {
       link: contact.twitter,
       link_alt: "Twitter",
     },
+    {
+      name: "whatsapp",
+      icon: "fab fa-whatsapp",
+      link: contact.whatsapp,
+      link_alt: "WhatsApp",
+    },
     // {
     //   name: "rss",
     //   icon: "fas fa-rss",

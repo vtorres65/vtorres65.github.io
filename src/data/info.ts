@@ -1,11 +1,7 @@
 export const info = {
-  name: "Vladimir Torres",
+  name: "Vladimir Torres Vargas",
   brief_description:
-<<<<<<< HEAD
-    "Soy desarrollador de Analítica de Datos con Power BI, SQL y Python.",
-=======
     "Desarrollador de Analítica de Datos con Power BI, SQL y Python.",
->>>>>>> descripcion
   role: "Data Analyst and Developer",
   picture: "/VladimirT.png",
   picture_alt: "Vladimir Torres",
@@ -24,9 +20,6 @@ export const info = {
         title: "Ingenieria de Software",
         date: "Feb 2024 - Actualidad",
         location: "Politecnico Grancolombiano",
-<<<<<<< HEAD
-        thesis: "The Art of Subverting Expectations: A Practical Guide",
-=======
         thesis: "Analisis de datos para la toma de decisiones en empresas de retail",
       },
       {
@@ -34,7 +27,6 @@ export const info = {
         date: "Nov 2020 - Ago 2023",
         location: "SENA (Servicio Nacional de Aprendizaje)",
         thesis: "Sistema de gestion POS para empresa de venta",
->>>>>>> descripcion
       },
       {
         title: "Tecnólogo en Análisis y Desarrollo de Sistema de Información ",
@@ -110,5 +102,6 @@ export const info = {
     linkedin: "https://www.linkedin.com/in/vladimir-torres-vargas/",
     github: "https://github.com/vtorres65",
     twitter: "https://www.twitter.com",
+    whatsapp: "https://api.whatsapp.com/send/?phone=3057061579&text&type=phone_number&app_absent=0",
   },
 };

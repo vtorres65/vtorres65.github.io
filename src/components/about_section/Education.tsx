@@ -12,7 +12,7 @@ export default function Education(props: EducationProps) {
     <div></div>
   ) : (
     <div className="flex flex-col space-y-4 lg:w-1/2 mx-4">
-      <h1 className="text-3xl font-bold">Education</h1>
+      <h1 className="text-3xl font-bold">Educacion</h1>
       {education.map((edu, index) => (
         <div className="flex flex-col space-y-2 relative" key={index}>
           <div className="flex items-center space-x-2">
